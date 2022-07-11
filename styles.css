@@ -1,0 +1,32 @@
+body {
+    margin: 20px;
+    background-color: white;
+    color:black;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    padding: 20px;
+    display: flex;
+    justify-content:space-around;/*space between the img and text*/
+    width: 400px;
+    margin: auto auto;
+    background-color: rgb(27, 26, 26);
+}
+p,h4,h3{
+    text-align: center;
+    color: white;
+}
+
+.border{
+    border-radius: 16px;
+    border-top: 5px solid white;
+    border-bottom:5px solid white ;
+
+}
+.oblique{
+    font-style: oblique;
+}
