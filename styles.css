@@ -30,3 +30,16 @@ p,h4,h3{
 .oblique{
     font-style: oblique;
 }
+
+.background{
+    display: flex;
+    width: 500px;
+    margin: 0 auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.background{
+    border-radius: 18px;
+
+    background-color: rgb(180, 177, 177);
+}
